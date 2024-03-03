@@ -14,6 +14,12 @@
   *  B. Pitlola, M.S. Kanduri, L.K. Devangan. Large Scale Reporting Solution using SAS® and Excel. SAS Global Forum, 2019
 -	V.S.R. Karimiddela, L.K. Devangan, M. S. Kanduri. Powering Business Users with one-click insights and custom reports using SAS®.  SAS Global Forum, 2019
 
+### 📫 Invited Talks and Guest Lectures
+* Customer Sentiment Analysis. Guest Lecture. CBIT, Hyderabad
+* Data-Driven Assortment Optimization. Guest Lecture. CBIT, Hyderabad
+* Understanding Machine Learning in practice. Invited Talk. Indian Ordinance Factory, Hyderabad.
+* Digitization in the Supply Chain. Jaipuria Institute of Management, Lucknow, India
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - - 👀 I’m interested in ...
