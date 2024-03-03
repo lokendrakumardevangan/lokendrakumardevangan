@@ -1,6 +1,8 @@
 ### **Introduction**
  I’m Lokendra Kumar Devangan. I have 13+ years of experience in applying analytics, data science, and optimization techniques to develop solutions for retail, consumer goods industry, and supply chain functions. Strong experience in working with businesses to understand challenges and design solutions.Deep experience in leading high-performing offshore and onshore cross-functional teams working on developing supply chain solutions using data science techniques on cloud platforms. 
 
+### 📫 Area of Interest
+Applied Machine Learning and Optimization, Generative AI, Supply Chain Analytics
 
 ### 📫 Journal/Conferences Papers
   *  L.K. Devangan, R K Amit, P Mehta, Sanjeev Swami, and K. Shanker. 2013. Individually Rational Buyback Contracts with Inventory Level Dependent Demand. International Journal of Production Economics. 142(2), 381-387.
