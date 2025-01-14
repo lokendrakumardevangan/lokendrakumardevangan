@@ -1,5 +1,5 @@
 ### **Introduction**
- I’m Lokendra Kumar Devangan. I have 13+ years of experience in applying analytics, data science, and optimization techniques to develop solutions for retail, consumer goods industry, and supply chain functions. Strong experience in working with businesses to understand challenges and design solutions.Deep experience in leading high-performing offshore and onshore cross-functional teams working on developing supply chain solutions using data science techniques on cloud platforms. 
+ I’m Lokendra Kumar Devangan. I have 14+ years of experience in applying analytics, data science, and optimization techniques to develop solutions for retail, consumer goods industry, and supply chain functions. Strong experience in working with businesses to understand challenges and design solutions.Deep experience in leading high-performing offshore and onshore cross-functional teams working on developing supply chain solutions using data science techniques on cloud platforms. 
 
 ### 📫 Area of Interest
 Applied Machine Learning and Optimization, Generative AI, Supply Chain Analytics
@@ -22,11 +22,6 @@ Applied Machine Learning and Optimization, Generative AI, Supply Chain Analytics
 * Understanding Machine Learning in practice. Invited Talk. Indian Ordinance Factory, Hyderabad.
 * Digitization in the Supply Chain. Jaipuria Institute of Management, Lucknow, India
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 lokendrakumardevangan/lokendrakumardevangan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
